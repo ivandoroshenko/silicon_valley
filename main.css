@@ -143,3 +143,11 @@ table a img {
 .descr__link:hover{
     text-decoration: underline;
 }
+.descr__link[href="#"] {
+    pointer-events: none;
+    color: royalblue;
+}
+
+.valid-css {
+   display: inline-block;
+}
