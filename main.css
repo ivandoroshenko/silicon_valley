@@ -129,9 +129,10 @@ table a img {
 .descr__item {
     margin-bottom: 5px;
 }
-.descr__item a {
+.descr__link {
     text-decoration: none;
+    font-size: 13.3px;
 }
-.descr__item a:hover{
+.descr__link:hover{
     text-decoration: underline;
 }
