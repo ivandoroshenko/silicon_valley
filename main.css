@@ -2,7 +2,7 @@ ol {
   list-style-type: none;
   counter-reset: my-counter;
   margin: 0;
-  padding: 0;
+  padding: 5px 0 0;
 }
 
 ol > li {
@@ -56,6 +56,13 @@ margin-left: 0px;
 margin-right: 0px;
 margin-top: 21px;
 padding: 0;
+}
+
+h3 {
+    margin-top: 0;
+    margin-bottom: 5px;
+    font-size: 13.3px;
+    text-align: center;
 }
 span.sub {
     font-size: 12.8px;
